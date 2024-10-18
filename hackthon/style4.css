@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+  span:hover {
+    background-color: lightgray;
+  }
+  
+  button .btn:hover {
+    background-color: red;
+  }
+  
+  /* .box{
+    display: block;
+  } */
+
